@@ -1,1 +1,4 @@
 /.idea
+.vscode/settings.json
+data/MNIST/*
+.DS_Store
