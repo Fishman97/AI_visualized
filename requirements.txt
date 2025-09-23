@@ -3,7 +3,11 @@ pandas
 matplotlib
 plotly
 ipywidgets
+ipycanvas
 torch
 torchvision
 torchinfo
 Pillow
+nbformat>=4.2.0
+netron
+onnx

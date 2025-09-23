@@ -1,6 +1,6 @@
 # ML Visualization
 
-This project provides some visualizations for machine learning concepts using Jupyter notebooks.
+This project provides a collection of some vibecoded visualizations for machine learning concepts using Jupyter notebooks.
 
 ## Setup Instructions
 
