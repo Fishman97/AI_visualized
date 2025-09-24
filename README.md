@@ -19,8 +19,8 @@ conda install jupyter
 First, create a new Conda environment and activate it.
 
 ```bash
-conda create --name ml-viz python=3.13
-conda activate ml-viz
+conda create --name ai-viz python=3.13
+conda activate ai-viz
 ```
 
 ### 2. Install Requirements
